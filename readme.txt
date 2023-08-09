@@ -2,12 +2,6 @@
 Our Project Title:
 Mahalaxami Clothing (An  ecommerce web application )
 
-
-Teammates:
-Harshiv Thakkar:UI20EC21
-Kushagra Chauhan:UI20EC35
-
-
 Features Implemented:
 Token Based Authentication
 Add To Cart
