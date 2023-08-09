@@ -1,0 +1,12 @@
+.wallpaper{
+    background: rgba(0,0,0,0.4);
+    background-blend-mode: darken;
+}
+.wallpaper-text{
+    margin: 0;
+    padding: 0;
+    color:whitesmoke;
+    font-size:22px;
+    text-align: center;
+    font-weight:400;
+  }

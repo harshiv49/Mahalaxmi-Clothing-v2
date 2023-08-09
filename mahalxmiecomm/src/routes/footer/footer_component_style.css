@@ -1,0 +1,43 @@
+.footer-section{
+    display: flex;
+    margin-left: 5px;
+    margin-top: 35px;
+}
+
+.footer-column2 li{
+    list-style:none;
+}
+.footer-column2 Link{
+    
+    text-decoration:none;
+    color:black;
+}
+.footer-column2 Link:hover{
+    color:rgb(62, 60, 60);
+}
+.footer-column2{
+    padding:40px 30px;
+}
+.footer-subheadings{
+    padding-left: 40px;
+}
+.payment-logo{
+    width: 300px;
+    height: 225px;
+    padding-left: 35px;
+}
+.follow-icon i{
+ 
+    padding-right:10px;
+    transition:0.3s;
+    color:black;
+}
+.followUs-heading{
+    margin-bottom: 0px;
+}
+.follow-icon i:hover{
+    transform: scale(1.4);
+}
+.text-center{
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@google-pay/button-react": "^3.0.5",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-router-dom": "^6.4.2",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
